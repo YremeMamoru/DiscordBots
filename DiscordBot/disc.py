@@ -3,7 +3,7 @@ import discord
 
 disLog.logActions()
 
-TOKEN = 'NTQ5NzE1ODk1MTM2NTUwOTEy.D1YIdA.7lgjkCijfMI5-BtnUONqMUy88W0'
+TOKEN = 'ur shit'
 
 client = discord.Client()
 
